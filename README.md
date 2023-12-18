@@ -7,3 +7,6 @@ Basic to Advance React learnings implementation
 # useState, useEffect, useCallback hooks
 # custom hooks
 # routing - React-router-dom
+# using debounce - throttle 
+  In search food item functionality
+# data filtering functionality
